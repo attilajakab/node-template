@@ -1,7 +1,7 @@
 ## Getting started
 
 **Prerequisites**
-An account on Heroku platform.
+- An account on Heroku platform.
 
 **Installation**
  1. Clone / Fork this repository.
